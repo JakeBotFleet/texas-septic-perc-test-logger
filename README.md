@@ -1,8 +1,6 @@
 # Texas Septic Perc Test Logger
 
-> **Percolation test logger with branded PDF report export.**
-> Forked from the [texas-septic-toolkit](https://github.com/TexasSepticEnthusiast/texas-septic-toolkit).
-> Built by [Out West Septic](https://outwestseptic.com) — Lone Camp, TX — **TCEQ OSSF Installer I | OS0041298** — 940.452.0598
+Percolation test logger with branded PDF report export. Forked from the [texas-septic-toolkit](https://github.com/TexasSepticEnthusiast/texas-septic-toolkit). Built by [Out West Septic](https://outwestseptic.com) in Lone Camp, TX. TCEQ OSSF Installer I, License OS0041298. Phone 940.452.0598.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -10,7 +8,7 @@
 
 ## What this fork is
 
-A focused fork of the [texas-septic-toolkit](https://github.com/TexasSepticEnthusiast/texas-septic-toolkit), containing only the perc test logger. Use this if you want the CLI logging + PDF report export without the rest of the toolkit.
+A focused fork of the [texas-septic-toolkit](https://github.com/TexasSepticEnthusiast/texas-septic-toolkit), containing only the perc test logger. Use this if you want the CLI logging plus PDF report export without the rest of the toolkit.
 
 ## Quick start
 
@@ -33,8 +31,8 @@ Out West Septic serves Palo Pinto County, Mineral Wells, Graford, Possum Kingdom
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+MIT. See [LICENSE](./LICENSE).
 
 ---
 
-*Out West Septic — outwestseptic.com — 940.452.0598 — TCEQ OSSF Installer I OS0041298 — Lone Camp, TX*
+Out West Septic, outwestseptic.com, 940.452.0598, TCEQ OSSF Installer I OS0041298, Lone Camp, TX
